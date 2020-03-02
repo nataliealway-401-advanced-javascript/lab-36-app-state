@@ -3,7 +3,7 @@ Refactoring an app that uses basic state management into one that uses the more 
 ## Author: Natalie Alway
 
 ## Links and Resources
-[Submission PR]() <br>
+[Submission PR](https://github.com/nataliealway-401-advanced-javascript/lab-36-app-state/pull/1) <br>
 <br>
 **CodeSandbox:** <br>
 [Connect to a store](https://codesandbox.io/s/connect-app-state-1chc2) <br>
